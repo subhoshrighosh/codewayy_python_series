@@ -1,0 +1,12 @@
+ANSWERS
+
+Q1. WHY LIST IS USED ?
+Ans ---> Lists are one of the four built-in data structures in Python, together with tuples, dictionaries, and sets. They are used to store an ordered collection of items, which might be of different types but usually they aren’t. Commas separate the elements that are contained within a list and enclosed in square brackets. 
+
+Q2. HOW DO LISTS AND SETS DIFFER ?
+Ans ---> List is an ordered sequence of elements whereas Set is a distinct list of elements which is unordered.
+LIST : An ordered collection (also known as a sequence). The user of this interface has precise control over where in the list each element is inserted. The user can access elements by their integer index (position in the list), and search for elements in the list.
+SET : A collection that contains no duplicate elements. More formally, sets contain no pair of elements e1 and e2 such that e1.equals(e2), and at most one null element. As implied by its name, this interface models the mathematical set abstraction.
+
+Q3. APPLICATION OF DICTIONARIES WITH REAL WORLD EXAMPLE.
+Ans ---> searching a college student name by their unique id.
